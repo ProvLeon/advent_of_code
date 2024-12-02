@@ -61,7 +61,7 @@ High contrast mode available (Firefox: View -> Page Style -> High Contrast)
 ## ⚠️ Important Guidelines
 
 - No puzzle submissions accepted
-- Report bugs through the subreddit
+- Report bugs through the [subreddit](https://www.reddit.com/r/adventofcode/)
 - Avoid streaming solutions during active competition
 - AI/LLM use discouraged during competitive periods
 - No redistribution of Advent of Code content
@@ -72,15 +72,15 @@ High contrast mode available (Firefox: View -> Page Style -> High Contrast)
 - Puzzles, Code, & Design: Eric Wastl
 
 **Beta Testing Heroes**
-- Tim Giannetti
+- [Tim Giannetti](https://twitter.com/Sr_Giannetti)
 - Ben Lucek
-- JP Burke
-- Aneurysm9
+- [JP Burke](http://thespaceabove.us/)
+- [Aneurysm9](https://twitter.com/Aneurysm9)
 - Andrew Skalski
 
 **Community Management**
-- Danielle Lucek
-- Aneurysm9
+- [Danielle Lucek](https://reddit.com/message/compose/?to=/r/adventofcode)
+- [Aneurysm9](https://twitter.com/Aneurysm9)
 
 **Special Thanks**
 - You, the problem solver!
