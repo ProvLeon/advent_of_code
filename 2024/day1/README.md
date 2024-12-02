@@ -50,9 +50,9 @@ The task is to quantify the differences between the lists by:
 ### ✨ Your Task
 Calculate the total distance between your actual left and right lists.
 
-[Solution for part 1](./day1_pt1.py) 💻
+[View Solution (part1)](./day1_pt1.py) 💻
 
-
+---
 
 ## 🔄 Part Two: A Different Perspective
 
@@ -85,4 +85,6 @@ Calculate how frequently each number from the left list appears in the right lis
 ### 🎉 Your Task
 Calculate the similarity score for your complete lists.
 
-[Solution for part 2](./day1_pt2.py) 💻
+[View Solution (part2)](./day1_pt2.py) 💻
+
+references: *Advent of Code 2024*, [Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1)

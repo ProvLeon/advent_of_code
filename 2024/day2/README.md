@@ -41,7 +41,9 @@ In this example, 2 reports are safe.
 ### ⭐️ Your Task
 Analyze the unusual data from the engineers. How many reports are safe?
 
-[View Solution](./day2_pt1.py) 💻
+[View Solution (part1)](./day2_pt1.py) 💻
+
+---
 
 ## 🔄 Part Two: The Problem Dampener
 
@@ -66,6 +68,6 @@ Thanks to the Problem Dampener, 4 reports are actually safe!
 ### ⭐️ Your Task
 Update your analysis by handling situations where the Problem Dampener can remove a single level from unsafe reports. How many reports are now safe?
 
-[View Solution](./day2_pt2.py) 💻
+[View Solution (part2)](./day2_pt2.py) 💻
 
 references: *Advent of Code 2024*, [Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2)
