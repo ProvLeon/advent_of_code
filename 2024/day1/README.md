@@ -50,7 +50,7 @@ The task is to quantify the differences between the lists by:
 ### ✨ Your Task
 Calculate the total distance between your actual left and right lists.
 
-[Solution for part 1](/day1_pt1.py) 💻
+[Solution for part 1](./day1_pt1.py) 💻
 
 
 
@@ -85,4 +85,4 @@ Calculate how frequently each number from the left list appears in the right lis
 ### 🎉 Your Task
 Calculate the similarity score for your complete lists.
 
-[Solution for part 2](/day1_pt2.py) 💻
+[Solution for part 2](./day1_pt2.py) 💻
