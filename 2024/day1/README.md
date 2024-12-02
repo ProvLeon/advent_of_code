@@ -52,7 +52,6 @@ Calculate the total distance between your actual left and right lists.
 
 [View Solution (part1)](./day1_pt1.py) 💻
 
----
 
 ## 🔄 Part Two: A Different Perspective
 
