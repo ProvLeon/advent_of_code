@@ -1,6 +1,6 @@
-# 🎄 Welcome to Our Advent of Code Solutions Repository! 🌟
+# 🎄 Welcome to My Advent of Code Solutions Repository! 🌟
 
-> **IMPORTANT DISCLAIMER**: This repository contains our solutions to Advent of Code challenges. All puzzles, original content, and the Advent of Code platform are the intellectual property of Eric Wastl and the Advent of Code team. We maintain this repo solely for educational purposes and to help others learn programming.
+> **IMPORTANT DISCLAIMER**: This repository contains solutions to Advent of Code challenges. All puzzles, original content, and the Advent of Code platform are the intellectual property of Eric Wastl and the Advent of Code team. I maintain this repo solely for educational purposes and to help others learn programming.
 
 ## About Advent of Code
 
