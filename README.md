@@ -1,6 +1,6 @@
 # 🎄 Welcome to My Advent of Code Solutions Repository! 🌟
 
-> **IMPORTANT DISCLAIMER**: This repository contains solutions to Advent of Code challenges. All puzzles, original content, and the Advent of Code platform are the intellectual property of Eric Wastl and the Advent of Code team. I maintain this repo solely for educational purposes and to help others learn programming.
+> **IMPORTANT DISCLAIMER**: This repository contains solutions to Advent of Code challenges. All puzzles, original content, and the Advent of Code platform are the intellectual property of [Eric Wastl](https://was.tl/) and the Advent of Code team. I maintain this repo solely for educational purposes and to help others learn programming.
 
 ## About Advent of Code
 
@@ -69,7 +69,7 @@ High contrast mode available (Firefox: View -> Page Style -> High Contrast)
 ## 🏆 Credits
 
 **Original Creation**
-- Puzzles, Code, & Design: Eric Wastl
+- Puzzles, Code, & Design: [Eric Wastl](https://was.tl/)
 
 **Beta Testing Heroes**
 - [Tim Giannetti](https://twitter.com/Sr_Giannetti)
