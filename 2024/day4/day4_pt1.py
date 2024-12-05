@@ -14,7 +14,9 @@ def find_xmas_occurrences(grid: list) -> int:
         int: Number of times 'XMAS' appears
     """
     rows = len(grid)
+    print(rows)
     cols = len(grid[0])
+    print(cols)
     count = 0
 
     # Directions: right, down-right, down, down-left, left, up-left, up, up-right
