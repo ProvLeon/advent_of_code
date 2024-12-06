@@ -66,7 +66,7 @@ def topological_sort(pages: list, graph: dict) -> list:
 
     # If not all pages are included, there's a cycle
     if len(result) != len(pages):
-        return None
+        return []
 
     return result
 
